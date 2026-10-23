@@ -72,3 +72,12 @@ Star the repo if you find it useful!
 
 **Made for platform engineers and SREs building telemetry collection infrastructure that works with any backend.**
 Let's make observability agents more open, OTel-native, and resource-efficient.
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Module-Bundlers&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Module-Bundlers_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Module-Bundlers_growth.svg">
+  </picture>
+</a>
