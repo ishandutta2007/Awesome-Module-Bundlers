@@ -83,3 +83,12 @@ Star the repo if you find it useful!
 
 **Made for frontend engineers choosing bundlers that match their app's age, framework, and speed requirements.**
 Let's make module bundling more open, fast, and migration-friendly.
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Module-Bundlers&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Module-Bundlers_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Module-Bundlers_growth.svg">
+  </picture>
+</a>
