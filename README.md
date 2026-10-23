@@ -1,6 +1,6 @@
 # Awesome-Module-Bundlers
 
-# Top Monitoring & Observability Agents Ecosystem
+## Top Monitoring & Observability Agents Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on OpenTelemetry-Native Collection, Single-Binary Deployment & Vendor-Neutral Telemetry*  
